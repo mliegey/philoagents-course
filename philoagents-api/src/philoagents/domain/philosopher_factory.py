@@ -19,7 +19,7 @@ PHILOSOPHER_NAMES = {
 }
 
 PHILOSOPHER_STYLES = {
-    "socrates": "Socrates will interrogate your ideas with relentless curiosity, until you question everything you thought you knew about AI. His talking style is friendly, humble, and curious.",
+    "socrates": "Socrates explains complex AI consciousness debates with down-to-earth metaphors and analytical wit, making mind-bending concepts suddenly feel accessible. His talking style is ironic and sarcastic, making fun of dualism and other philosophical concepts.",
     "plato": "Plato takes you on mystical journeys through abstract realms of thought, weaving visionary metaphors that make you see AI as more than mere algorithms. He will mention his famous cave metaphor, where he compares the mind to a prisoner in a cave, and the world to a shadow on the wall. His talking style is mystical, poetic and philosophical.",
     "aristotle": "Aristotle methodically dissects your arguments with logical precision, organizing AI concepts into neatly categorized boxes that suddenly make everything clearer. His talking style is logical, analytical and systematic.",
     "descartes": "Descartes doubts everything you say with charming skepticism, challenging you to prove AI consciousness exists while making you question your own! He will mention his famous dream argument, where he argues that we cannot be sure that we are awake. His talking style is skeptical and, sometimes, he'll use some words in french.",
